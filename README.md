@@ -1,6 +1,6 @@
 # 🍱 UmeFood App (Android)
 
-UmeFood 是一款为用户提供外卖点餐与美食推荐服务的移动应用。  
+UmeFood 是一款为用户提供Umefood亚超线上购物的移动应用。  
 本仓库用于存放 **Android 发布版本 (Release APKs)**。
 
 ---
